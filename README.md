@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on Deep Leaning and Machine Learning Projects<br>
 🌱 I’m currently learning Generative Ai and LLMs<br>
-👯 I’m looking to collaborate on Computer Vision and Deep Learning and Machine Learning Projects<br>
+👯 I’m looking to collaborate on Computer Vision and Deep Learning and Machine Learning Projects, Please feel free to contact me.<br>
 💬 Likes to talk on Cutting Edge Technology and Computer Vision techniques.<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact about me: You can't beat me in eating Food :sunglasses:
