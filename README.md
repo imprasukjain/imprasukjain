@@ -1,6 +1,7 @@
 ### Hi there I am Prasuk Jain 👋
 ### I am a Passionate Machine Learning Engineer from India IN ###
 ## Welcome to my Profile ##
+### I am open to work
 
 
 ### ***About Me*** ###
