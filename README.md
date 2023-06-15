@@ -24,7 +24,7 @@
 	def Ambitions():
 		WorldTour()
 		Coffee_With_U()
-		Live_in_mountains()
+		Settling_up_in_mountains()
 	
  ```
 
