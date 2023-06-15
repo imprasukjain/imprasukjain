@@ -2,18 +2,31 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Prasuk Jain! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p align = "center"><em> &nbsp; &nbsp; Machine Learning Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p align = "center"><em> &nbsp; &nbsp; Machine Learning Developer From India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 </div>
 
-### ***About Me*** ###
-
-🔭 I’m currently working on Deep Leaning and Machine Learning Projects<br>
-🌱 I’m currently learning Generative Ai and LLMs<br>
-👯 I’m looking to collaborate on Computer Vision and Deep Learning and Machine Learning Projects, Please feel free to contact me.<br>
-💬 Likes to talk on Cutting Edge Technology and Computer Vision techniques.<br>
-😄 Pronouns: He/Him<br>
-⚡ Fun fact about me: You can't beat me in eating Food :sunglasses:
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Savage Prasuk'
+		current_work = 'Writing code'
+		hobbies = [
+				'Sleeping',
+				'Watching Movies',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Gwalior_India()
+	
+	def Ambitions():
+		WorldTour()
+		Coffee_With_U()
+		Live_in_mountains()
+	
+ ```
 
 ### Socials :globe_with_meridians: ### 
 <br>
